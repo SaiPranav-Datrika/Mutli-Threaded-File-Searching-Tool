@@ -15,7 +15,7 @@ Four Stages of Thread  Life Cycle
 • Running,  
 • Waiting (blocked), Termination
 
-# Multiple number of threads are used to search a file in the system directories, this file contains how a system searches a file in the hard disk with the help of Linux system calls.
+Multiple number of threads are used to search a file in the system directories, this file contains how a system searches a file in the hard disk with the help of Linux system calls.
 
 Outputs:
 
